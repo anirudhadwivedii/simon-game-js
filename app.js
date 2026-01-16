@@ -80,5 +80,6 @@ function reset() {
     gameSeq = []
     userSeq = []
     level = 0
-    document.body.style.backgroundColor = "white"
+    document.body.style.backgroundColor = "red"
+
 }
